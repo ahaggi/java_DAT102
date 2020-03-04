@@ -1,0 +1,10 @@
+aaa etternavn1 1991
+zzz etternavn2 1991
+bbb etternavn1 1991
+yyy etternavn4 1991
+ccc etternavn5 1988
+xxx etternavn6 1988
+aaa etternavn7 1988
+zzz etternavn8 1985
+bbb etternavn9 1985
+yyy etternavn10 1985

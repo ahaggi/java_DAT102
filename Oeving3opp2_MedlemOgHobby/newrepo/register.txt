@@ -1,0 +1,50 @@
+medlem1
+hobby1 hobby3 
+medlem2
+hobby2 hobby6
+medlem3
+hobby1 hobby3 hobby5
+medlem4
+hobby2 hobby4 hobby6
+medlem5
+hobby1 hobby5
+medlem6
+hobby2 hobby4
+medlem7
+hobby1 hobby3 hobby5
+medlem8
+hobby2 hobby4 hobby6
+medlem9
+hobby3 hobby5
+medlem10
+hobby4 hobby6
+medlem11
+hobby1 hobby3 hobby5
+medlem12
+hobby2 hobby4 hobby6
+medlem13
+hobby1 hobby3 hobby5
+medlem14
+hobby2 hobby4 hobby6
+medlem15
+hobby1 hobby3 hobby5
+medlem16
+hobby2 hobby4 hobby6
+medlem17
+hobby1 hobby3 hobby5
+medlem18
+hobby2 hobby4 hobby6
+medlem19
+hobby1 hobby3 hobby5
+medlem20
+hobby2 hobby4 hobby6
+medlem21
+hobby11 hobby3 hobby5
+medlem22
+hobby12 hobby14 hobby16
+medlem23
+hobby11 hobby13 hobby5
+medlem24
+hobby21 hobby41 hobby61
+medlem25
+hobby10 hobby30 hobby50
